@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Shubham Kushwaha<br>🎯 Aspiring Data Scientist | Python | Machine Learning | Data Analysis<br>I’m a passionate Data Science learner who loves turning raw data into insights using Python, statistics, and machine learning. I focus on hands-on projects and continuous learning.<br><br>I’m currently working on<br>📊 Data Analysis projects using real-world datasets<br>🤖 Machine Learning models (classification & prediction)<br>🧹 Data cleaning, feature engineering & EDA<br><br>I’m looking to collaborate on<br>🧠 Data Science & Machine Learning projects<br>🏆 Kaggle-style datasets & competitions<br>🌍 Open-source data-related projects<br><br>I’m looking for help with<br>Model optimization & feature selection<br>Deploying ML models (Streamlit / FastAPI)<br>Applying data science to real business problems<br><br>Ask me about<br>Python for Data Science<br>Pandas, NumPy, Matplotlib, Seaborn<br>Scikit-learn, EDA & ML fundamentals<br><br>Languages & Tools:<br>Python<br>SQL<br>Jupyter Notebook<br>Data Science & ML:<br>Pandas, NumPy<br>Matplotlib, Seaborn<br>Scikit-learn<br><br>⚡ Fun fact<br>I believe data tells a story — you just need to ask the right questions 📊✨<br><br>
 
-<!--
-**shubh-am1809/shubh-am1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shubham_kush018?igsh=MWpvaG5uejJlaWowMg==&utm_source=ig_contact_invite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kushwaha-1902702a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ShubhamKus51126) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham1809xgmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shubh-am1809&theme=panda&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shubh-am1809&theme=panda&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-am1809&theme=panda&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
